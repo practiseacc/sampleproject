@@ -3,3 +3,4 @@
 # Allow crawling of all content
 User-agent: *
 Disallow:
+# Checking the usage of pull command by updating change in remote repository and pull in local or working directory
