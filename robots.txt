@@ -3,4 +3,6 @@
 # Allow crawling of all content
 User-agent: *
 Disallow:
-# Checking the usage of pull command by updating change in remote repository 
+# Checking the usage of pull command by updating change in remote repository
+# Checking the operation of "git push" command 
+
